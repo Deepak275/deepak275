@@ -10,6 +10,49 @@ Developer who switched to Cloud Infrastructure. Have been building tools and aut
 📕 &nbsp;**My Blog Post**
 - [Best practices to follow while writing a Dockerfile](https://medium.com/@Learner_of_life/best-practices-to-follow-while-writing-a-dockerfile-80f17a346e62)
 
+# Employment History
+
+## SMTS, Salesforce India Bengaluru
+### OCTOBER 2022 — PRESENT
+- Build automation around the infrastructure of Salesforce's email ecosystem.
+- Led designing and building CI/CD pipelines for various projects.
+- Conducted a boot camp for a 20-member tech team around Linux and Kubernetes, empowering them to independently manage common deployment issues.
+- Led a team to create automation around infrastructure using Python.
+- Provisioning and management using configuration tools like Chef and Ansible.
+- Build automation to scale the system before the US Holiday period and take a session around it for all SRE teams.
+- Actively participated in on-call production during the US holiday period support for uptime of more than 400 microservices.
+
+## Senior Site Reliability Engineer Bookmyshow, Bengaluru
+### DECEMBER 2020 — OCTOBER 2022
+- On-premise Kubernetes cluster hosting, Kafka, Elasticsearch using Terraform and Ansible and maintenance i.e. from planning to execution of Nodes and master Upgrades.
+- Build automation for CI/CD pipeline using Helm and Stash.
+- Migration of On-premise to AWS, including EC2 instances, using automation tools for provisioning EKS and other components with monitoring with Prometheus.
+- Led migration of all the statefullsets and stateless (DBs, EKS, Elasticsearch, Redis etc.) workload to AWS graviton-based instances (arm64) with helm.
+- Conducted a boot camp for a 300-member tech team around Kubernetes, helm and graviton migration, empowering them to independently manage graviton migration and common deployment issues.
+- Config Istio features like Timeouts, circuit breaking, max-connection etc.
+- Collaborated to configure the logging solution using Elasticsearch, elastic APM, and fluentd.
+- Actively participated on-call production support for uptime of more than 300 microservices.
+
+## Product Engineer SRE, Gojek,  Bengaluru
+### SEPTEMBER 2018 — DECEMBER 2020
+- Design and build GitLab CI/CD Helm deployment automation with Canary on GKE.
+- Led automation for infra component provisioning in GCP and AWS using Terraform, Ansible, and Chef.
+- Have designed and implemented networking (subnets) and connectivity across hundreds of GCPs using HA Tunnels and VPC Peering.
+- Build service to manage configuration for Organization-wide services.
+- Led Shared VPC design across 50 GCPs and implementation with industry-standard monitoring, logging, and deployment.
+- SSL renewal automation using Let's Encrypt.
+
+## Product Engineer, Gojek, Bengaluru
+### SEPTEMBER 2016 — SEPTEMBER 2018
+- Conducted a bootcamp for a 40-member tech team on Helm and Kubernetes, empowering them to independently manage common deployment issues.
+- Designed and built Scalable Driver Onboarding Portals using Ruby on Rails best practices and circuit breaking.
+- Actively participated in on-call production support for uptime of more than 500 microservices.
+
+## Software Engineer, Leftshift Technologies, Pune
+### JANUARY 2016 — SEPTEMBER 2016
+- Build REST APIs using best practices like TDD, SOLID, DRY, KISS etc. using Node.js stack.
+- Bank IFSC full-text search to find banks using Postgres.
+what do you have for lunch today
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
