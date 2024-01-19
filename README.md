@@ -10,7 +10,7 @@ Developer who switched to Cloud Infrastructure. Have been building tools and aut
 📕 &nbsp;**My Blog Post**
 - [Best practices to follow while writing a Dockerfile](https://medium.com/@Learner_of_life/best-practices-to-follow-while-writing-a-dockerfile-80f17a346e62)
 
-# Employment History
+## Employment History
 
 ## SMTS, Salesforce India Bengaluru
 ### OCTOBER 2022 — PRESENT
